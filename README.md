@@ -13,8 +13,6 @@ O repositório **data** apresenta os dados (comprimidos em formato `.zip`) dos v
 
 ---
 
-## Estrutura dos Repositórios
-
 ### `semantic_filtering`
 
 O repositório **semantic_filtering** implementa a etapa de filtragem semântica do conjunto de dados.
