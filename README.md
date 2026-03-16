@@ -1,6 +1,6 @@
-# Análise do Discurso Sobre Vacinação no YouTube no Brasil
+# Análise do Discurso Sobre Vacinação no YouTube Brasileiro
 
-Este repositório reúne os códigos e procedimentos utilizados no artigo **“Análise do Discurso Sobre Vacinação no YouTube no Brasil”**. O objetivo do projeto é analisar comentários e conteúdos do YouTube relacionados à vacinação, utilizando técnicas de processamento de linguagem natural (PLN), modelos de linguagem de grande escala (LLMs) e modelagem de tópicos.
+Este repositório reúne os códigos e procedimentos utilizados no artigo **Análise do Discurso Sobre Vacinação no YouTube Brasileiro**. O objetivo do projeto é analisar comentários e conteúdos do YouTube relacionados à vacinação, utilizando técnicas de processamento de linguagem natural, modelos de linguagem de grande escala (LLMs) e modelagem de tópicos.
 
 O fluxo metodológico do projeto é dividido em diferentes etapas, cada uma implementada em um repositório específico.
 ---
